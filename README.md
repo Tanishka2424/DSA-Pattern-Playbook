@@ -73,3 +73,13 @@ Python
 
 This repository is being built incrementally through concept learning,
 coding practice, and revision.
+
+## Daily Coding Progress
+
+- [x] Day 1 – Number Basics
+- [ ] Day 2 – Number Operations
+- [ ] Day 3 – Basic Mathematics
+- [ ] Day 4 – String Problems
+- [ ] Day 5 – Arrays and Lists
+- [ ] Day 6 – Mixed Practice
+- [ ] Day 7 – Mock Interview
