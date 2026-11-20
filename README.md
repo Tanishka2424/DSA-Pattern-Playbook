@@ -83,3 +83,4 @@ coding practice, and revision.
 - [ ] Day 5 – Arrays and Lists
 - [ ] Day 6 – Mixed Practice
 - [ ] Day 7 – Mock Interview
+
